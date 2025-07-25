@@ -10,6 +10,7 @@
   - Proyecto Gasol (In progress, Private)
   - Proyecto ACB (Private)
   - Proyecto Nadal (Private)
+  - And many more to come!
   
 
 - 📫 If anyone needs to reach me, write at: **jesus.delcr@gmail.com**
