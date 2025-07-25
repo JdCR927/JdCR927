@@ -25,6 +25,6 @@
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jdcr927&show_icons=true&locale=en" alt="jdcr927" />
+<p align=middle>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jdcr927&show_icons=true&locale=en" alt="jdcr927" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jdcr927&" alt="jdcr927" />
+<p align=middle><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jdcr927&" alt="jdcr927" />
