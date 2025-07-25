@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jesús del Castillo</h1>
 <h3 align="center">A passionate developer working on a few projects for self-growth and future business.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jdcr927&label=Profile%20views&color=0e75b6&style=flat" alt="jdcr927" /> </p>
+<p align="middle"> <img src="https://komarev.com/ghpvc/?username=jdcr927&label=Profile%20views&color=0e75b6&style=flat" alt="jdcr927" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jdcr927" alt="jdcr927" /></a> </p>
+<p align="middle"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JdCR927&theme=dracula&title=-Followers,-Reviews&margin-w=20&margin-h=10&column=3" alt="jdcr927" /></a> </p>
 
 - 🔭 I’m currently working on many projects. This is a comprehensive list of them:
   - [Steel Protocol](https://github.com/JdCR927/SteelProtocol_ALPHA) (Hiatus)
