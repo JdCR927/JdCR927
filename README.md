@@ -10,7 +10,7 @@
   - Proyecto Gasol (In progress, Private)
   - Proyecto ACB (Private)
   - Proyecto Nadal (Private)
-  - Proyecto CalenWork
+  - Proyecto CalenWork (Private for now)
   - And many more to come!
   
 
