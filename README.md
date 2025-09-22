@@ -15,27 +15,27 @@
   </tr>
   <tr>
     <td>Steel Protocol</td>
-    <td>On hiatus</td>
+    <td>On hiatus (50%)</td>
     <td>https://github.com/JdCR927/SteelProtocol_ALPHA</td>
   </tr>
   <tr>
     <td>Proyecto Gasol</td>
-    <td>In progress</td>
+    <td>In progress (75%)</td>
     <td>Private</td>
   </tr>
   <tr>
     <td>Proyecto ACB</td>
-    <td>Planning</td>
+    <td>Planning (10%)</td>
     <td>Private</td>
   </tr>
   <tr>
     <td>Proyecto Nadal</td>
-    <td>Planning</td>
+    <td>Planning (0%)</td>
     <td>Private</td>
   </tr>
   <tr>
     <td>Proyecto CalenWork</td>
-    <td>Planning</td>
+    <td>Planning (0%)</td>
     <td>Private for now</td>
   </tr>
 </table>
