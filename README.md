@@ -20,12 +20,12 @@
   </tr>
   <tr>
     <td>Proyecto Gasol</td>
-    <td>In progress (75%)</td>
+    <td>In progress (85%)</td>
     <td>Private</td>
   </tr>
   <tr>
     <td>Proyecto ACB</td>
-    <td>Planning (10%)</td>
+    <td>Planning (20%)</td>
     <td>Private</td>
   </tr>
   <tr>
