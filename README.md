@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Proyecto Gasol</td>
-    <td>In progress (85%)</td>
+    <td>In progress (90%)</td>
     <td>Private</td>
   </tr>
   <tr>
