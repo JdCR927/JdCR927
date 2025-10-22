@@ -5,7 +5,7 @@
 
 <p align="middle"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JdCR927&theme=dracula&title=-Followers,-Reviews&margin-w=20&margin-h=10&column=3" alt="jdcr927" /></a> </p>
 
-<p align="center"> I’m currently working on many projects. This is a comprehensive list of them:</p>
+<p align="center"> I’m currently working on the Most Dangerous Game Project, as well as a few other personal ventures. This is a comprehensive list of them:</p>
 
 <table align="center">
   <tr>
@@ -15,26 +15,21 @@
   </tr>
   <tr>
     <td>Steel Protocol</td>
-    <td>On hiatus (50%)</td>
+    <td>Alpha completed, beta on hiatus (50%)</td>
     <td>https://github.com/JdCR927/SteelProtocol_ALPHA</td>
   </tr>
   <tr>
-    <td>Proyecto Gasol</td>
-    <td>In progress (90%)</td>
+    <td>Module Gasol (Module of Project MDG)</td>
+    <td>In active progress (90%)</td>
     <td>Private</td>
   </tr>
   <tr>
-    <td>Proyecto ACB</td>
-    <td>Planning (20%)</td>
+    <td>Project MDG (UI, and Base App)</td>
+    <td>Designing phase (15%)</td>
     <td>Private</td>
   </tr>
   <tr>
-    <td>Proyecto Nadal</td>
-    <td>Planning (0%)</td>
-    <td>Private</td>
-  </tr>
-  <tr>
-    <td>Proyecto CalenWork</td>
+    <td>Project CalenWork</td>
     <td>Planning (0%)</td>
     <td>Private for now</td>
   </tr>
