@@ -30,7 +30,7 @@
   </tr>
   <tr>
     <td>Project MDG (UI, and Base App)</td>
-    <td>In development (35%)</td>
+    <td>Work In Progress (35%)</td>
     <td>Private</td>
   </tr>
   <tr>
