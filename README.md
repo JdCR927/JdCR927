@@ -20,12 +20,17 @@
   </tr>
   <tr>
     <td>Module Gasol (Module of Project MDG)</td>
-    <td>In active progress (90%)</td>
+    <td>In active testing under real conditions(95%)</td>
+    <td>Private</td>
+  </tr>
+  <tr>
+    <td>Module Gasol UI(Module of Project MDG)</td>
+    <td>Work In Progress (80%)</td>
     <td>Private</td>
   </tr>
   <tr>
     <td>Project MDG (UI, and Base App)</td>
-    <td>Designing phase (15%)</td>
+    <td>In development (35%)</td>
     <td>Private</td>
   </tr>
   <tr>
