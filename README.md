@@ -25,7 +25,7 @@
   </tr>
   <tr>
     <td>Module Gasol UI(Module of Project MDG)</td>
-    <td>Work In Progress (80%)</td>
+    <td>Work In Progress (82%)</td>
     <td>Private</td>
   </tr>
   <tr>
