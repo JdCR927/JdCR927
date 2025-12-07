@@ -20,17 +20,17 @@
   </tr>
   <tr>
     <td>Module Gasol (Module of Project MDG)</td>
-    <td>Testing before full deployment (100%)</td>
+    <td>Testing (100%)</td>
     <td>Private</td>
   </tr>
   <tr>
     <td>Module Gasol UI(Module of Project MDG)</td>
-    <td>Work In Progress (90%)</td>
+    <td>Done, UX iteration (100%)</td>
     <td>Private</td>
   </tr>
   <tr>
     <td>Project MDG (UI, and Base App)</td>
-    <td>Working base, not deployed yet (80%)</td>
+    <td>Done (100%)</td>
     <td>Private</td>
   </tr>
   <tr>
