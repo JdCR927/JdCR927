@@ -24,7 +24,7 @@
     <td>Private</td>
   </tr>
   <tr>
-    <td>Module Gasol UI(Module of Project MDG)</td>
+    <td>Module Gasol UI (Module of Project MDG)</td>
     <td>Done, UX iteration (100%)</td>
     <td>Private</td>
   </tr>
