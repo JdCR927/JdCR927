@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Module Gasol (Module of Project MDG)</td>
-    <td>Testing (100%)</td>
+    <td>Done, testing (100%)</td>
     <td>Private</td>
   </tr>
   <tr>
